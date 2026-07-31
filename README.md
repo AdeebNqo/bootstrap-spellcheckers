@@ -4,6 +4,6 @@ Automated spellchecking is a core language technology, yet open-source code and 
 
 ![Spellchecker Pipeline](spellcheckerpipeline1.png)
 
-#Citation
+# Citation
 
 Mahlaza, Z., Keet, C.M., Magwenzi, T. On the ability to bootstrap spellcheckers for Nguni languages via reusable model pipelines. Annual Conference of the South African Institute of Computer Scientists and Information Technologists (SAICSIT'26). Springer CCIS (accepted). Cape Town, 13-15 July, 2026. 
