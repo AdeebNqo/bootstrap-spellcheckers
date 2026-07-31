@@ -1,0 +1,84 @@
+Epoch [1/5], Loss: 0.5943
+Epoch [2/5], Loss: 0.5858
+Epoch [3/5], Loss: 0.5862
+Epoch [4/5], Loss: 0.5859
+Epoch [5/5], Loss: 0.5861
+Epoch [1/5], Loss: 0.5961
+Epoch [2/5], Loss: 0.5960
+Epoch [3/5], Loss: 0.5962
+Epoch [4/5], Loss: 0.5960
+Epoch [5/5], Loss: 0.5964
+Epoch [1/5], Loss: 1.2520
+Epoch [2/5], Loss: 1.2524
+Epoch [3/5], Loss: 1.2511
+Epoch [4/5], Loss: 1.2508
+Epoch [5/5], Loss: 1.2518
+Epoch [1/5], Loss: 0.5711
+Epoch [2/5], Loss: 0.5708
+Epoch [3/5], Loss: 0.5708
+Epoch [4/5], Loss: 0.5707
+Epoch [5/5], Loss: 0.5708
+isiNdebele.csv
+Metrics for Incorrect Words: Prec=0.724, Rec=0.797, F1=0.759
+Metrics for Correct Words:   Prec=0.774, Rec=0.696, F1=0.733
+
+isiXhosa.csv
+Metrics for Incorrect Words: Prec=0.724, Rec=0.769, F1=0.746
+Metrics for Correct Words:   Prec=0.753, Rec=0.707, F1=0.729
+
+siSwati.csv
+Metrics for Incorrect Words: Prec=0.664, Rec=0.773, F1=0.714
+Metrics for Correct Words:   Prec=0.728, Rec=0.609, F1=0.663
+
+isiZulu.csv
+Metrics for Incorrect Words: Prec=0.730, Rec=0.792, F1=0.759
+Metrics for Correct Words:   Prec=0.772, Rec=0.707, F1=0.738
+
+isiNdebele-siSwati.csv
+Metrics for Incorrect Words: Prec=0.591, Rec=0.867, F1=0.703
+Metrics for Correct Words:   Prec=0.750, Rec=0.400, F1=0.522
+
+isiNdebele-isiZulu.csv
+Metrics for Incorrect Words: Prec=0.649, Rec=0.814, F1=0.722
+Metrics for Correct Words:   Prec=0.751, Rec=0.559, F1=0.641
+
+isiNdebele-isiXhosa.csv
+Metrics for Incorrect Words: Prec=0.627, Rec=0.827, F1=0.713
+Metrics for Correct Words:   Prec=0.746, Rec=0.509, F1=0.605
+
+siSwati-isiZulu.csv
+Metrics for Incorrect Words: Prec=0.592, Rec=0.801, F1=0.680
+Metrics for Correct Words:   Prec=0.692, Rec=0.447, F1=0.543
+
+isiZulu-siSwati.csv
+Metrics for Incorrect Words: Prec=0.602, Rec=0.876, F1=0.714
+Metrics for Correct Words:   Prec=0.772, Rec=0.422, F1=0.546
+
+siSwati-isiNdebele.csv
+Metrics for Incorrect Words: Prec=0.582, Rec=0.829, F1=0.684
+Metrics for Correct Words:   Prec=0.702, Rec=0.404, F1=0.513
+
+isiZulu-isiXhosa.csv
+Metrics for Incorrect Words: Prec=0.642, Rec=0.834, F1=0.726
+Metrics for Correct Words:   Prec=0.764, Rec=0.536, F1=0.630
+
+isiZulu-isiNdebele.csv
+Metrics for Incorrect Words: Prec=0.649, Rec=0.847, F1=0.735
+Metrics for Correct Words:   Prec=0.780, Rec=0.542, F1=0.640
+
+siSwati-isiXhosa.csv
+Metrics for Incorrect Words: Prec=0.577, Rec=0.821, F1=0.678
+Metrics for Correct Words:   Prec=0.690, Rec=0.398, F1=0.505
+
+isiXhosa-siSwati.csv
+Metrics for Incorrect Words: Prec=0.576, Rec=0.873, F1=0.694
+Metrics for Correct Words:   Prec=0.738, Rec=0.357, F1=0.481
+
+isiXhosa-isiZulu.csv
+Metrics for Incorrect Words: Prec=0.654, Rec=0.810, F1=0.724
+Metrics for Correct Words:   Prec=0.751, Rec=0.573, F1=0.650
+
+isiXhosa-isiNdebele.csv
+Metrics for Incorrect Words: Prec=0.621, Rec=0.844, F1=0.716
+Metrics for Correct Words:   Prec=0.757, Rec=0.485, F1=0.591
+
